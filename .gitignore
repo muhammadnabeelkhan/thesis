@@ -1,0 +1,5 @@
+desktop.ini
+**/refs/tags/desktop.ini
+.tmp.driveupload
+**/desktop.ini
+*.ini
